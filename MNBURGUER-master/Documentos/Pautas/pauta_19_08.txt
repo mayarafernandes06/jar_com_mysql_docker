@@ -1,0 +1,48 @@
+pauta_19_08
+
+participantes: Felipe, Isabella, Leticia, Mayara e Vitor.
+
+Reunião incial do G8
+
+Vitor sugeriu trabalharmos com sistemas bancários e central de bombeiros e policiais.
+
+Mayara sugeriu trabalharmos com escolas ou faculdades. Envolvimento dos alunos conectados aos dispositivos da instituição. Login e logof. Monitorar a totens de hospitais.
+
+Felipe sugeriu trabalharmos com hamburgerias e restaurantes. Monitorar pcs e dispositivos conectados.
+
+Leticia sugeriu trabalharmos com monitarar servidores dos times da Partners. Monitorar sistemas de lava rápidos. 
+
+Isabela sugeriu trabalharmos com supermercados (monitoramento de estoque).
+
+Pedido de reunião com o Gerson.
+
+Pesquisa e montagem do contexto.
+
+
+
+---------------------------------------------------------------------------
+
+
+Temática: Hamburgeria
+
+S.M:
+P.O: 
+
+Contexto:
+Tamanho do mercado, como funciona (app, delivery e salão)
+TCO - Entregável de P.I - Levantamento dos custos (aquisição, funcionamento, prejuizos por falahas ou interupções.
+
+
+Principais problemas:
+
+Nossa solução:
+
+Esopo:
+O que vamos entregar
+
+BackLog:
+
+Prótotipo do site:
+
+
+

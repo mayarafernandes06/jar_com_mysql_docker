@@ -1,0 +1,51 @@
+Pauta reunião - 13_09
+
+Script de falas 
+
+Slide 7  e 8  - Story board 
+Usamos uma ferramenta de ideação para arquitetar as primcipais ideias de funcionalidades e inovação 
+do nosso software. 
+
+Slide 9 - Analisando nosso modelo de negócio, gostariamos de destacar nossas atividades chaves e oferta de valores
+além da visualização macro de todos os steakholders envolvidos
+
+Slide 10 - Tivemos conversar e entrevistas onde o cliente nos informou oq el eespera de sistema de monitoramento e os objetivos dele em ter uma aplcação desse tipo
+
+Slide 11 - Alinhando as expectativas do cliente, criamos o escopo do nosso projto com levantamento de requisitos e restreabilidade dos mesmos
+
+Slide 12 - nosso banco dados onde iremos armazenar todas as infromações do clinte, gerando relatórios e historicos
+
+Falar que o Git é a nossa ferramenta de compartilhamento e atualização de projeto 
+
+Planner foi a ferramenta escolhida para a gestão das tarefas, aplicando a metodologia agil
+
+Teste 1 apresentação = 19min48seg
+
+Teste 2 apresentação = 13min59seg
+
+Teste 3 apresentação = 11min50seg
+
+Commits no Git
+
+Comandos da máquina virtual 
+
+Criar um usuario - sudo adduser raXXXXX
+Criar uma senha para o usuario - sudo passwd urubu100
+Para ver instalações de pacote - sudo apt updade
+Para ver atualizações dos pacotes - sudo apt upgrade -y
+Su root - entrar no root 
+df - participações do diretório
+lscpu - todas as informações da máquina
+
+Atualizar Git Hub 
+
+
+
+
+
+
+
+
+ 
+
+ 
