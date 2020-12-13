@@ -1,3 +1,0 @@
-sempre de um pull antes de subir qualquer coisa 
-seja claro nos commit 
-faça bom uso do projeto 
